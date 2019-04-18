@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<Head>
+
+	<meta charset="utf-8">
+	<title>MESTRE POKÉMON!</title>
+	<style>
+		p {
+			background-color: rgb(0, 3, 3);
+			color: yellow
+		}
+
+		body {
+			background-color: rgb(1, 78, 53);
+			color: beige;
+			font-size: 30px;
+		}
+
+		img{
+			width: 200px;
+			border: 5px solid white;
+		}
+
+	</style>
+</Head>
+
+<body>
+
+	<h1>Hello World!</h1>
+
+	<p>
+		GOTTA CATCH'EM ALL!
+	</p>
+
+	<a href="https://validator.w3.org/" target="blank">
+		<img style="display: block; margin:0 auto;" src="https://www.w3.org/QA/Tools/I_heart_validator" alt="Logo do validador W3C"
+		 title="Validador W3C" />
+	</a>
+
+	<!-- Division -->
+
+	<hr />
+	<h1>Título 1 - Blindão</h1>
+	<h2>Título 2 - Blindado</h2>
+	<h3>Título 3 - Médio</h3>
+	<h4>Título 4 - Méh</h4>
+	<h5>Título 5 - Nano</h5>
+	<h6>Título 6 - No Thanos</h6>
+	<hr />
+
+	<p>
+		Isso é um parágrafo.
+		<br> O parágrafo utiliza a
+		<br> tag &lt;p&gt;.
+		<br>
+
+	</p>
+
+	<p>
+		Este é outro parágrafo.
+	</p>
+
+	<h1>Lista Ordenada/Enumerada</h1>
+	<ol>
+		<li>Frango</li>
+		<!-- List Item -->
+		<li>Carne</li>
+		<!-- List Item -->
+		<li>Peixe</li>
+		<!-- List Item -->
+		<li>Counter Strike 1.6</li>
+		<!-- List Item -->
+	</ol>
+
+	<h1>Lista Não Ordenada</h1>
+	<ul>
+		<li>HTML</li>
+		<li>JavaScript</li>
+		<li>CSS</li>
+	</ul>
+
+	<hr>
+
+	<p>
+		Para
+		<strong>reforçar</strong> uma palavra usa-se o &lt;strong&gt;.
+	</p>
+
+	<p style="
+		font-size: 30px">
+		Para dar
+		<em>ênfase</em> em uma palavra usa-se &lt;em&gt;.
+	</p>
+
+	<p style="
+	width: 200px;
+	margin:0 auto;
+	background-color: blue;
+	color: red;
+	">
+		<strong>Negrito</strong> e <em>Itálico</em>
+	</p>
+
+</body>
+
+</html>
